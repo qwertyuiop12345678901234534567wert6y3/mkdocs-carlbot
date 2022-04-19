@@ -14,4 +14,5 @@
 | catbomb | !catbomb | Gives you 5 links instead of just one, only use this if you LOVE cats! |
 | dogbomb | !dogbomb | ^ but dogs. |
 | awwbomb | !awwbomb | ^ but just cute animals. |
+| NO | !NO | Link but is no. |
 
